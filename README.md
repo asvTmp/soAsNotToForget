@@ -1,2 +1,2 @@
 # soAsNotToForget
-so as not to forget
+this repository is created for instructions so that you don't forget
