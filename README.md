@@ -6,3 +6,4 @@ this repository is created for instructions so that you don't forget
 * [Как настроить внешний редактор в ModelSim](./modelsim_external_editor.md)
 * [Что сделать с созданным репозитроием гит](./gitQuickStep.md)
 * [Псевдонимы в гит](./gitQuickStep.md)
+* [Конфигурирование гит](./gitConfig.md)
